@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\Documents\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\components\\pages\\borrowreturn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:components\\pages\\borrowreturn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\components\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:components\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\lab5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:lab5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|c:\\users\\josh\\documents\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4472A565-5F4E-4F0A-911C-1968B36C3162}|Lab5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Services\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:11:47.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T04:08:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.razor",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Users.razor",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Users.razor",
+              "RelativeToolTip": "Components\\Pages\\Users.razor",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:40:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.razor",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Books.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Books.razor",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Books.razor",
+              "RelativeToolTip": "Components\\Pages\\Books.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:10:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowReturn.razor",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\BorrowReturn.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\BorrowReturn.razor",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\BorrowReturn.razor",
+              "RelativeToolTip": "Components\\Pages\\BorrowReturn.razor",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAowLcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:46:30.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:41:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T03:16:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:13:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:13:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab5",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Lab5.csproj",
+              "RelativeDocumentMoniker": "Lab5.csproj",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Lab5.csproj",
+              "RelativeToolTip": "Lab5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T03:13:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Services\\LibraryService.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAqwO8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:10:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:39:27.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
