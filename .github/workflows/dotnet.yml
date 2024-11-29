@@ -33,5 +33,5 @@ jobs:
 
     - name: Run tests
       run: |
-        cd TestLab6
+        cd UnitTest1
         dotnet test
