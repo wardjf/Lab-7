@@ -1,0 +1,88 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# User-specific files (Windows)
+Thumbs.db
+ehthumbs.db
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ebug/
+[Dd]ebugPublic/
+
+# Uncomment if you have a package directory
+# /packages/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vsix
+
+# JetBrains Rider
+.idea/
+
+# User-specific JetBrains Rider configuration
+.idea/
+
+# .NET Core / .NET 5+ files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+.nuget/
+# Uncomment if you have artifacts
+# *.nupkg
+# .nuget/packages/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Azure Web App publish settings
+PublishSettings/
+
+# Temporary ASP.NET files
+.tmp/
+
+# SQLite files (if used in your project)
+*.sqlite
+*.db
+
+# MacOS
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# IIS Express (if used)
+.IISExpress/
+
+# Build output directories
+bin/
+obj/
+
+# DotNet Files
+.vscode/
