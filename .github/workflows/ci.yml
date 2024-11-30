@@ -1,0 +1,36 @@
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code from the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up .NET SDK
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.0'  # Adjust to your .NET version
+
+      # Step 3: Restore dependencies for the solution
+      - name: Restore dependencies
+        run: dotnet restore Lab5/Lab5.sln
+
+      # Step 4: Build the solution
+      - name: Build the solution
+        run: dotnet build Lab5/Lab5.sln --no-restore
+
+      # Step 5: Run tests for the solution
+      - name: Run tests
+        run: dotnet test Lab5/Lab5.sln --no-build --verbosity normal
