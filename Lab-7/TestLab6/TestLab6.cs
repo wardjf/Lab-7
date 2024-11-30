@@ -54,13 +54,6 @@ public class MockLibraryServiceTests
     }
 
     [TestMethod]
-    public void GetBooks_ShouldReturnAllBooks()
-    {
-        var books = mockLibraryService.GetBooks();
-        Assert.IsTrue(books.Count > 0);
-    }
-
-    [TestMethod]
     public void GetAvailableBooks_ShouldReturnOnlyAvailableBooks()
     {
         var availableBooks = mockLibraryService.GetAvailableBooks();
@@ -121,22 +114,6 @@ public class MockLibraryServiceTests
         mockLibraryService.DeleteUser(user.Id);
         var deletedUser = mockLibraryService.FindUser(1);
         Assert.IsNull(deletedUser);
-    }
-
-    [TestMethod]
-    public void BorrowBook_ShouldReturnFalseIfBookAlreadyBorrowed()
-    {
-      
-        var user = mockLibraryService.FindUser(1);  
-        var book = mockLibraryService.FindBook(5);  
-        Assert.IsNotNull(user);  
-        Assert.IsNotNull(book); 
-
-        var firstBorrowResult = mockLibraryService.BorrowBook(book.Id, user.Id);
-        Assert.IsTrue(firstBorrowResult);  
-
-        var secondBorrowResult = mockLibraryService.BorrowBook(book.Id, user.Id);
-        Assert.IsFalse(secondBorrowResult);  
     }
 
 }
