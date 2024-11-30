@@ -25,12 +25,12 @@ jobs:
 
       # Step 3: Restore dependencies for the solution
       - name: Restore dependencies
-        run: dotnet restore Lab5
+        run: dotnet restore Lab-7/Lab5
 
       # Step 4: Build the solution
       - name: Build the solution
-        run: dotnet build Lab5 --no-restore
+        run: dotnet build Lab-7/Lab5 --no-restore
 
       # Step 5: Run tests for the solution
       - name: Run tests
-        run: dotnet test TestLab6 --no-build --verbosity normal
+        run: dotnet test Lab-7/TestLab6 --no-build --verbosity normal
